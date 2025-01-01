@@ -1,4 +1,4 @@
-<h1>👋Olá, visitante! Eu sou Aline Alves. Seja bem-vindo(a) ao meu perfil!</h1>
+<h1>👋Olá, visitante! Eu sou Aline Alves.</h1>
 <h4>👩🏼‍🎓 Estudante de Engenharia de Software</h3>
 <h4>🕵🏼‍♀️ Atuo como Analista de Testes e Qualidade de Software</h4>
 <h4>⚙️ Atualmente estou focada nos estudos de testes automatizados, utilizando o cypress.</h4>
